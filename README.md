@@ -48,3 +48,37 @@ MarketplaceAppWPF is a high-performance WPF application built in C#. It offers a
    - Similarly, set the admin project (`WpfApp2.sln`) as the startup project and run it by pressing `F5`.
    - The admin application should now be able to interact with the server.
 
+
+## Usage
+
+### For Users
+Dear user, welcome to our second-hand marketplace system! Here, you can easily, quickly, and accessibly use the platform.
+
+#### Available Functions:
+- **Browse Products**: View a wide range of products available in the system, sorted by categories, subcategories, or new products. Each product includes detailed information.
+- **Post a New Listing**: Register as a seller, optionally upload an image, and fill in the listing details (description, price, category, etc.).
+- **Add to Favorites**: Add listings to your favorites list to revisit them later.
+- **Contact Seller**: Directly contact the seller through the phone number listed in the ad.
+- **Post Commercial Banners**: Upload banners for commercial advertising, choose the banner's placement on the site, and set the advertising period.
+- **Remove All Listings**: Remove all your published listings by entering a unique user code.
+
+#### Personal Area:
+- **View and Update Profile**: View and update your user information.
+- **View Ad History**: View all your published listings, including active and archived ads.
+- **Edit and Delete Listings**: Edit or delete your published listings.
+- **View Favorites List**: View and manage your favorite listings.
+- **Track Banner Orders**: Track your commercial banner orders, including order status and advertising period.
+
+### For Administrators
+#### Available Functions:
+- **Manage Users**: Edit and delete users, and manage their permissions and roles.
+- **Manage Sellers**: Manage the permissions and roles of sellers, including editing and deleting sellers.
+- **Manage Site Content**: Create, edit, and delete categories, subcategories, cities, and banner locations.
+- **Manage Listings**: Approve, reject, and pause listings.
+- **Manage Commercial Banner Orders**: Approve, reject, and pause banner orders.
+- **Manage Payments**: Handle and process payments, including the ability to approve, reject, and execute credit card transactions.
+- **View Active and Past Orders**: Monitor current and historical orders.
+- **View Payments**: Review payment transactions.
+
+To use the system effectively, please familiarize yourself with the graphical interface and carefully follow the instructions. We wish you a pleasant and efficient experience with our system!
+
