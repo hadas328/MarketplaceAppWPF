@@ -1,0 +1,24 @@
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\HadasProject\bin\x64\Debug\HadasProject.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\HadasProject\bin\x64\Debug\HadasProject.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\HadasProject\obj\x64\Debug\HadasProject.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\HadasProject\obj\x64\Debug\HadasProject.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\HadasProject\obj\x64\Debug\HadasProject.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\HadasProject\obj\x64\Debug\HadasProject.pdb
+D:\HadasProject\HadasProject\bin\x64\Debug\HadasProject.dll
+D:\HadasProject\HadasProject\bin\x64\Debug\HadasProject.pdb
+D:\HadasProject\HadasProject\obj\x64\Debug\HadasProject.csproj.AssemblyReference.cache
+D:\HadasProject\HadasProject\obj\x64\Debug\HadasProject.csproj.CoreCompileInputs.cache
+D:\HadasProject\HadasProject\obj\x64\Debug\HadasProject.dll
+D:\HadasProject\HadasProject\obj\x64\Debug\HadasProject.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\HadasProject\bin\x64\Debug\HadasProject.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\HadasProject\bin\x64\Debug\HadasProject.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Debug\HadasProject.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Debug\HadasProject.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Debug\HadasProject.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Debug\HadasProject.pdb
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\bin\x64\Debug\HadasProject.dll
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\bin\x64\Debug\HadasProject.pdb
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Debug\HadasProject.csproj.AssemblyReference.cache
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Debug\HadasProject.csproj.CoreCompileInputs.cache
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Debug\HadasProject.dll
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Debug\HadasProject.pdb

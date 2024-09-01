@@ -1,0 +1,75 @@
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\Host.exe.config
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\Host.exe
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\Host.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\Model.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\ViewModel.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\Model.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\bin\x64\Debug\ViewModel.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\obj\x64\Debug\Host.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\obj\x64\Debug\Host.csproj.SuggestedBindingRedirects.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\obj\x64\Debug\Host.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\obj\x64\Debug\Host.csproj.CopyComplete
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\obj\x64\Debug\Host.exe
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Host\obj\x64\Debug\Host.pdb
+D:\HadasProject\Host\obj\x64\Debug\Host.exe
+D:\HadasProject\Host\obj\x64\Debug\Host.pdb
+D:\HadasProject\Host\bin\x64\Debug\Host.exe.config
+D:\HadasProject\Host\bin\x64\Debug\Host.exe
+D:\HadasProject\Host\bin\x64\Debug\Host.pdb
+D:\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.dll
+D:\HadasProject\Host\bin\x64\Debug\Model.dll
+D:\HadasProject\Host\bin\x64\Debug\ViewModel.dll
+D:\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.pdb
+D:\HadasProject\Host\bin\x64\Debug\Model.pdb
+D:\HadasProject\Host\bin\x64\Debug\ViewModel.pdb
+D:\HadasProject\Host\obj\x64\Debug\Host.csproj.AssemblyReference.cache
+D:\HadasProject\Host\obj\x64\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\HadasProject\Host\obj\x64\Debug\Host.csproj.CoreCompileInputs.cache
+D:\HadasProject\Host\obj\x64\Debug\Host.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.exe.config
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.exe
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Model.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\ViewModel.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Model.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\ViewModel.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.exe
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.exe.config
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.exe
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Model.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\ViewModel.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Model.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\ViewModel.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.CopyComplete
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.exe
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.exe.config
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.exe
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Host.pdb
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.dll
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Model.dll
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\ViewModel.dll
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\WcfServiceLibrary1.pdb
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\Model.pdb
+D:\פרויקט הדס\שרת\HadasProject\Host\bin\x64\Debug\ViewModel.pdb
+D:\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.AssemblyReference.cache
+D:\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.CoreCompileInputs.cache
+D:\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.csproj.CopyComplete
+D:\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.exe
+D:\פרויקט הדס\שרת\HadasProject\Host\obj\x64\Debug\Host.pdb

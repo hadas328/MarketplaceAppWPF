@@ -1,0 +1,9 @@
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\bin\x64\Release\ViewModel.dll
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\bin\x64\Release\ViewModel.pdb
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\bin\x64\Release\Model.dll
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\bin\x64\Release\Model.pdb
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\obj\x64\Release\ViewModel.csproj.AssemblyReference.cache
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\obj\x64\Release\ViewModel.csproj.CoreCompileInputs.cache
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\obj\x64\Release\ViewModel.csproj.CopyComplete
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\obj\x64\Release\ViewModel.dll
+D:\פרויקט הדס\שרת\HadasProject\ViewModel\obj\x64\Release\ViewModel.pdb

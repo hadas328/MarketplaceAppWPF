@@ -1,0 +1,55 @@
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CopyComplete
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.pdb
+D:\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.dll
+D:\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.pdb
+D:\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.dll
+D:\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.dll
+D:\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.pdb
+D:\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.pdb
+D:\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+D:\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CopyComplete
+D:\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.dll
+D:\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.pdb
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.dll
+C:\Users\user1\Desktop\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CopyComplete
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.pdb
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.dll
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.pdb
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.dll
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\WcfServiceLibrary1.pdb
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.dll
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.dll
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\Model.pdb
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\bin\x64\Debug\ViewModel.pdb
+D:\פרויקט הדס\שרת\HadasProject\WcfServiceLibrary1\obj\x64\Debug\WcfServiceLibrary1.csproj.CopyComplete

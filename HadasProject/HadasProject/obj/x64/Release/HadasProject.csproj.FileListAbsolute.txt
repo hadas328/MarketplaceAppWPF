@@ -1,0 +1,6 @@
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\bin\x64\Release\HadasProject.dll
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\bin\x64\Release\HadasProject.pdb
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Release\HadasProject.csproj.AssemblyReference.cache
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Release\HadasProject.csproj.CoreCompileInputs.cache
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Release\HadasProject.dll
+D:\פרויקט הדס\שרת\HadasProject\HadasProject\obj\x64\Release\HadasProject.pdb

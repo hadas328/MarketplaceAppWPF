@@ -1,0 +1,26 @@
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\bin\Debug\Test.exe.config
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\bin\Debug\Test.exe
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\bin\Debug\Test.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\bin\Debug\Model.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\bin\Debug\ViewModel.dll
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\bin\Debug\Model.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\bin\Debug\ViewModel.pdb
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\obj\Debug\Test.csproj.CopyComplete
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\obj\Debug\Test.exe
+G:\מחשבים\כיתה יב\קבוצת המורה הוכמן\הדס\HadasProject\Test\obj\Debug\Test.pdb
+D:\HadasProject\Test\bin\Debug\Test.exe.config
+D:\HadasProject\Test\bin\Debug\Test.exe
+D:\HadasProject\Test\bin\Debug\Test.pdb
+D:\HadasProject\Test\bin\Debug\Model.dll
+D:\HadasProject\Test\bin\Debug\ViewModel.dll
+D:\HadasProject\Test\bin\Debug\Model.pdb
+D:\HadasProject\Test\bin\Debug\ViewModel.pdb
+D:\HadasProject\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\HadasProject\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\HadasProject\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\HadasProject\Test\obj\Debug\Test.csproj.CopyComplete
+D:\HadasProject\Test\obj\Debug\Test.exe
+D:\HadasProject\Test\obj\Debug\Test.pdb
