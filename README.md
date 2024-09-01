@@ -84,3 +84,5 @@ To use the system effectively, please familiarize yourself with the graphical in
 
 ##  Screenshots
 ![Demo of MarketplaceAppWPF](./מצגת1.gif)
+
+![Demo of MarketplaceAppWPF](./מנהלתמונות.gif)
