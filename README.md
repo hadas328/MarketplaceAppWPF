@@ -83,6 +83,16 @@ Dear user, welcome to our second-hand marketplace system! Here, you can easily, 
 To use the system effectively, please familiarize yourself with the graphical interface and carefully follow the instructions. We wish you a pleasant and efficient experience with our system!
 
 ##  Screenshots
-![Demo of MarketplaceAppWPF](./מצגת1.gif)
+### Admin Side
+<p align="center">
+  <img src="Images/1admin.png" width="300" alt="Admin Screen 1" />
+  <img src="./Images/admin_screen2.png" width="300" alt="Admin Screen 2" />
+  <img src="./Images/admin_screen3.png" width="300" alt="Admin Screen 3" />
+</p>
 
-![Demo2 of MarketplaceAppWPF](./מנהלתמונות.gif)
+### Client Side
+<p align="center">
+  <img src="./Images/client_screen1.png" width="300" alt="Client Screen 1" />
+  <img src="./Images/client_screen2.png" width="300" alt="Client Screen 2" />
+  <img src="./Images/client_screen3.png" width="300" alt="Client Screen 3" />
+</p>
