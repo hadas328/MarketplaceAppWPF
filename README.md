@@ -85,9 +85,9 @@ To use the system effectively, please familiarize yourself with the graphical in
 ##  Screenshots
 ### Admin Side
 <p align="center">
-  <img src="Images/1admin.png" width="300" alt="Admin Screen 1" />
-  <img src="Images/2admin.png.png" width="300" alt="Admin Screen 2" />
-  <img src="Images/3admin.png.png" width="300" alt="Admin Screen 3" />
+  <img src="Images/1admin.png" width="400" alt="Admin Screen 1" />
+  <img src="Images/2admin.png.png" width="400" alt="Admin Screen 2" />
+  <img src="Images/3admin.png.png" width="400" alt="Admin Screen 3" />
 </p>
 
 ### Client Side
