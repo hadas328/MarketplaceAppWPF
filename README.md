@@ -92,7 +92,7 @@ To use the system effectively, please familiarize yourself with the graphical in
 
 ### Client Side
 <p align="center">
-  <img src="./Images/client_screen1.png" width="300" alt="Client Screen 1" />
-  <img src="./Images/client_screen2.png" width="300" alt="Client Screen 2" />
-  <img src="./Images/client_screen3.png" width="300" alt="Client Screen 3" />
+  <img src="Images/0client.png.png" width="300" alt="Client Screen 1" />
+  <img src="Images/1client.png.png" width="300" alt="Client Screen 2" />
+  <img src="Images/3client.png.png" width="300" alt="Client Screen 3" />
 </p>
